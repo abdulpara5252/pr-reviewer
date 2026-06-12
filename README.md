@@ -22,9 +22,9 @@ Create a .env file:
 env
 
 Copy
-GITHUB_TOKEN=fghfghhghfghgfgh
-NOTION_API_KEY=fghfghffgh
-NOTION_PAGE_ID=fghfghfghg
+GITHUB_TOKEN=fhghfghfgh
+NOTION_API_KEY=fghfghfgh
+NOTION_PAGE_ID=your_notion_page_id
 Get GITHUB_TOKEN from https://github.com/settings/tokens (needs repo scope).
 Get NOTION_API_KEY and create an integration at https://www.notion.so/my-integrations.
 Get NOTION_PAGE_ID from a Notion page URL (format: xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx).
